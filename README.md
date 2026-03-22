@@ -17,9 +17,9 @@ I like working with computers.
 
 ## 📞 Connect With Me
 
-- 📧 **Email:** mukbhateja@gmail.com(mailto:mukbhateja@gmail.com)
-- 💼 **LinkedIn:** MukhyanshBhateja(https://www.linkedin.com/in/mukhyansh-bhateja-a72617276/)
-- 🎯 **CodeForces:** mukbhateja(https://codeforces.com/profile/mukbhateja)
+- 📧 **Email:** [mukbhateja@gmail.com](mailto:mukbhateja@gmail.com)
+- 💼 **LinkedIn:** [MukhyanshBhateja](https://www.linkedin.com/in/mukhyansh-bhateja-a72617276/)
+- 🎯 **CodeForces:** [mukbhateja](https://codeforces.com/profile/mukbhateja)
 
 ---
 
