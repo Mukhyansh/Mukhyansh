@@ -23,4 +23,4 @@ I like working with computers.
 
 ## 📊 My GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MukhyanshFile&theme=dark)](https://github.com/MukhyanshFile)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mukhyansh&theme=dark)](https://github.com/Mukhyansh)
