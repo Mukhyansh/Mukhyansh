@@ -20,8 +20,7 @@ I like working with computers.
 - 📧 **Email:** [mukbhateja@gmail.com](mailto:mukbhateja@gmail.com)
 - 💼 **LinkedIn:** [MukhyanshBhateja](https://www.linkedin.com/in/mukhyansh-bhateja-a72617276/)
 - 🎯 **CodeForces:** [mukbhateja](https://codeforces.com/profile/mukbhateja)
-- 🎯 **LeetCode:** [Azor_Ahai](https://leetcode/u/azor_ahai)
-- 
+- 🎯 **LeetCode:**  [Mukhyansh](https://leetcode/u/azor_ahai) 
 ---
 
 
