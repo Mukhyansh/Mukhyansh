@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mukhyansh
+# Hello, I am Mukhyansh.
 
 I like working with computers.
 
