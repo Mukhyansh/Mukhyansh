@@ -26,7 +26,7 @@ I like working with computers.
 - 💼 **LinkedIn:** [MukhyanshBhateja](https://www.linkedin.com/in/mukhyansh-bhateja-a72617276/)
 - 🎯 **CodeForces:** [mukbhateja](https://codeforces.com/profile/mukbhateja)
 - 🎯 **LeetCode:**  [Mukhyansh](https://leetcode.com/u/azor_ahai)
-- 🎯 **Portfolio**  [Mukhyansh](Mukhyansh-portfolio.vercel.app)
+- 🎯 **Portfolio:**  [Mukhyansh](Mukhyansh-portfolio.vercel.app)
 ---
 
 
