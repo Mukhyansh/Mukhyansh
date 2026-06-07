@@ -33,6 +33,4 @@ I like working with computers.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mukhyansh&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Mukhyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukhyansh&theme=tokyo-night)](https://github.com/Mukhyansh)
-
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukhyansh&theme=tokyonight)
