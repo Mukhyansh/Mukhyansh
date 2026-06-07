@@ -32,6 +32,6 @@ I like working with computers.
 
 ## 📊 My GitHub Activity
 
-![Mukhyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mukhyansh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mukhyansh&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhyansh&layout=compact&theme=tokyonight)
