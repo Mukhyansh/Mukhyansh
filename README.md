@@ -29,9 +29,8 @@ I like working with computers.
 - 🎯 **Portfolio:**  [Mukhyansh](https://Mukhyansh-portfolio.vercel.app)
 ---
 
-
 ## 📊 My GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mukhyansh&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mukhyansh&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhyansh&layout=compact&theme=tokyonight)
+[![Mukhyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukhyansh&theme=tokyo-night)](https://github.com/Mukhyansh)
