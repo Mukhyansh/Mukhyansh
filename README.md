@@ -32,4 +32,4 @@ I like working with computers.
 
 ## 📊 My GitHub Activity
 
-[![Mukhyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhyansh)](https://github.com/Mukhyansh/github-readme-stats)   
+[![Mukhyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhyansh&show_icons=true&theme=tokyonight)] 
