@@ -31,6 +31,4 @@ I like working with computers.
 
 ## 📊 My GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mukhyansh&theme=tokyonight)](https://git.io/streak-stats)
-
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukhyansh&theme=tokyonight)
