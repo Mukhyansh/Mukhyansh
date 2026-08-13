@@ -1,4 +1,4 @@
-# Hello, I am Mukhyansh,
+# Hello, I am Mukhyansh!
 
 I use Arch btw
 
