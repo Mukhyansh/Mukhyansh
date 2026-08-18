@@ -1,6 +1,6 @@
-# Hello, I am Mukhyansh!
+# Hello, I am Mukhyansh
 
-I use Arch btw
+and I use Arch btw
 
 ---
 
