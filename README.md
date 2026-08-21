@@ -4,7 +4,7 @@ and I use Arch btw
 
 ---
 
-## 📞 Connect With Me
+## Contacts
 
 - 📧 **Email:** [mukbhateja@gmail.com](mailto:mukbhateja@gmail.com)
 - 💼 **LinkedIn:** [MukhyanshBhateja](https://www.linkedin.com/in/mukhyansh-bhateja-a72617276/)
